@@ -35,3 +35,10 @@ Please see [this guide](./build_it_yourself.md).
 ## Questions?
 
 Feel free to ask in the issue section, or email me at `dekunukem__gmail__com`.
+
+## kowmod1 ##
+
+![Alt text](resources/pics/kowmod1.jpg)
+
+replaced LCD with cheaper 4 pin version, uses any ~$3 128x64 oled LCD with VCC,GND,SCL,SDA pinout order (https://www.ebay.ca/itm/0-96-I2C-IIC-SPI-Serial-128X64-White-OLED-LCD-LED-Display-Module-for-Arduino-LR/392728983410)
+replaced sk6812 mini with ws2812b mini, added gerber, bom, and cpl for jlcpcb assembly
